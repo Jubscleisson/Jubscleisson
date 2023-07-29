@@ -1,5 +1,5 @@
 <h1 align="center">Hiii! 🙋‍♂️</h1>
-<h2 align="center">🤖 I'm Fellipe O. Lima 🤖</h2>
+<h2 align="center">🤖 I'm Fellipe Lima 🤖</h2>
 
 <h3 align="center">A technology lover from Brazil</h3>
 
